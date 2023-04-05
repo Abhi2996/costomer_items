@@ -1,0 +1,86 @@
+//...........................................................
+                          // Text(result);
+                          // if (result.isNotEmpty) {
+                          //   setState(() {
+                          //     for (final row in result) {
+                          //       //var companyName = row['coname'];
+                          //       //print(companyName);
+                          //       final companyAddress = row['coadd'];
+                          //       final companyPhone = row['cophone'];
+                          //       final email = row['coemail'];
+                          //       final companyID = row['companyID'];
+                          //       final contactphone = row['contactphone'];
+                          //     }
+                          //   });
+                          // } else {
+                          //   setState(() {
+                          //     _message = 'No results found';
+                          //   });
+                          // }
+                          
+
+
+
+
+                          //       onTap: () async {
+                          //   print("tapped");
+                          //   final query = 'SELECT * FROM users';
+                          //   final result = await DatabaseHelper.rawQuery(query);
+                          //   print(result);
+                      
+                          //   final companyName = result[0]['coname'];
+                          //   //xyzController.text = companyName;
+                      
+                          //   print(companyName);
+                      
+                            
+                          // },
+                          //controller: xyzController,
+                                
+                                
+                              
+                            ),
+                            
+                          //     child: TextFormField(
+                          //       minLines: 1,
+                          //       maxLines: 4,
+                          //       // "${companyName},\n$companyAddress\n$companyPhone\n$companyID\n$contactphone",
+                          //       //companyName,
+                          //       onTap: () async {
+                          //   print("tapped");
+                          //   final query = 'SELECT * FROM users';
+                          //   final result = await DatabaseHelper.rawQuery(query);
+                          //   print(result);
+                      
+                          //   // final companyADD = result[1]['coadd'];
+                          //   // final companyPhone=result[3]['cophone'];
+                          //   // final company_ID =result[3]['companyID'];
+                          //   // final contactPHONE = result[4]['contactphone'];
+                          //   // final email_id =result[5]['email'];
+                      
+                      
+                          //   // ADDController.text = companyName;
+                          //   // PhoneController.text = companyPhone;
+                          //   // IDController.text =company_ID;
+                          //   // COPHONEController.text = contactPHONE;
+                          //   // EMAILController.text = email_id;
+                      
+                      
+                      
+                      
+                          //   // print(companyADD);
+                          //   // print(companyPhone);
+                          //   // print(company_ID);
+                          //   // print(contactPHONE);
+                          //   // print(email_id);
+                      
+                            
+                          // },
+                          //       style: TextStyle(
+                          //         fontStyle: FontStyle.normal,
+                          //         fontWeight: FontWeight.normal,
+                          //         fontFamily: 'OpenSans',
+                          //         fontSize: 15,
+                          //       ),
+                          //       textAlign: TextAlign.start,
+                          //     ),
